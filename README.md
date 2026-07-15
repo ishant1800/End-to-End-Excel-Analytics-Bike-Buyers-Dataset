@@ -1,32 +1,9 @@
-# Working on data with Microsoft Excel
-Data Cleaning , Data Analysis and Data visualization of provided data using microsoft excel.
+This repository showcases a complete data analytics workflow using Microsoft Excel. The project transforms raw, unformatted user data from a bike buyers dataset into actionable business insights through structured cleaning, analytical modeling, and visual reporting.
 
-#
+Key Steps Completed:
 
-# Dataset Used :-
-https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx
+Data Cleaning & Standardization: Removed duplicate records, eliminated extra spacing using TRIM, handled null values, and standardized text columns for uniform analysis.
 
-# Project type :-
-Data Cleaning , Data Analysis , Data Visualization.
+Data Analysis: Leveraged Excel formulas and Pivot Tables to segment buyer demographics, identify purchasing patterns, and extract key metrics.
 
-# Explanation :-
-
-1. Removing Duplicates from the given data set.
-
-2. Standardizing the data.
-
-3. Removing extra spaces using trim.
-
-4. Removing null or blank values.
-
-5. Removing any column if necessary.
-
-# Used :-
-
-1. Excel formulas as well for cleaning.
-
-2. Pivot table for analysing the data.
-
-3. Visualizations to create a dashboard.
-
-
+Data Visualization: Built an interactive Excel dashboard featuring dynamic charts and slicers to present the final insights clearly.
